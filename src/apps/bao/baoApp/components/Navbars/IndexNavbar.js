@@ -55,7 +55,7 @@ function IndexNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            href="/jutsai-lab/bao.html#/index"
+            href="/bao.html#/index"
             target="_blank"
             title="Bao"
           >
@@ -99,7 +99,7 @@ function IndexNavbar() {
                 className="dropdown-info"
               >
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/react-ticket"
+                  href="/bao.html#/react-ticket"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -107,21 +107,21 @@ function IndexNavbar() {
                 </DropdownItem>
                 
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/react-todolist"
+                  href="/bao.html#/react-todolist"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   Todolist
                 </DropdownItem>
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/react-weatherApp"
+                  href="/bao.html#/react-weatherApp"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   Weather APP
                 </DropdownItem>
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/react-redditBrowserApp"
+                  href="/bao.html#/react-redditBrowserApp"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -151,7 +151,7 @@ function IndexNavbar() {
               >
                 <DropdownItem divider />
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/#"
+                  href="/bao.html#/#"
                   onClick={e => e.preventDefault()}
                 >
                   Coming soon...
@@ -179,7 +179,7 @@ function IndexNavbar() {
                 className="dropdown-info"
               >
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/ai-tensorflow"
+                  href="/bao.html#/ai-tensorflow"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -208,7 +208,7 @@ function IndexNavbar() {
                 className="dropdown-info"
               >
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/js"
+                  href="/bao.html#/js"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -216,7 +216,7 @@ function IndexNavbar() {
                 </DropdownItem>
                 <DropdownItem divider />
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/#"
+                  href="/bao.html#/#"
                   onClick={e => e.preventDefault()}
                 >
                   Coming soon...
@@ -244,7 +244,7 @@ function IndexNavbar() {
                 className="dropdown-info"
               >
                 <DropdownItem
-                  href="/jutsai-lab/stacklineTest.html"
+                  href="/stacklineTest.html"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -252,7 +252,7 @@ function IndexNavbar() {
                 </DropdownItem>
                 <DropdownItem divider />
                 <DropdownItem
-                  href="/jutsai-lab/clock.html"
+                  href="/clock.html"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -260,7 +260,7 @@ function IndexNavbar() {
                 </DropdownItem>
                 <DropdownItem divider />
                 <DropdownItem
-                  href="/jutsai-lab/hepB.html"
+                  href="/hepB.html"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -268,7 +268,7 @@ function IndexNavbar() {
                 </DropdownItem>
                 <DropdownItem divider />
                 <DropdownItem
-                  href="/jutsai-lab/bao.html#/#"
+                  href="/bao.html#/#"
                   onClick={e => e.preventDefault()}
                 >
                   Coming soon...
