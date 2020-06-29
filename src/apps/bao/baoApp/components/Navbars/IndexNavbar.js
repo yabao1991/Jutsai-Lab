@@ -56,7 +56,7 @@ function IndexNavbar() {
           <NavbarBrand
             data-placement="bottom"
             href="/Jutsai-Lab/bao.html#/index"
-            // target="_blank"
+            target="_blank"
             title="Bao"
           >
             Bao
@@ -100,7 +100,7 @@ function IndexNavbar() {
               >
                 <DropdownItem
                   href="/Jutsai-Lab/bao.html#/react-ticket"
-                  // target="_blank"
+                  target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   Ticket
@@ -108,21 +108,21 @@ function IndexNavbar() {
                 
                 <DropdownItem
                   href="/Jutsai-Lab/bao.html#/react-todolist"
-                  // target="_blank"
+                  target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   Todolist
                 </DropdownItem>
                 <DropdownItem
                   href="/Jutsai-Lab/bao.html#/react-weatherApp"
-                  // target="_blank"
+                  target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   Weather APP
                 </DropdownItem>
                 <DropdownItem
                   href="/Jutsai-Lab/bao.html#/react-redditBrowserApp"
-                  // target="_blank"
+                  target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   Reddit Browser APP
@@ -180,7 +180,7 @@ function IndexNavbar() {
               >
                 <DropdownItem
                   href="/Jutsai-Lab/bao.html#/ai-tensorflow"
-                  // target="_blank"
+                  target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   TensorFlow.js
@@ -209,7 +209,7 @@ function IndexNavbar() {
               >
                 <DropdownItem
                   href="/Jutsai-Lab/bao.html#/js"
-                  // target="_blank"
+                  target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
                   JS coding

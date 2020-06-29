@@ -48,7 +48,7 @@ function SectionExamples() {
                     <Button
                       className="btn-outline-neutral btn-round"
                       href="/index"
-                      // target="_blank"
+                      target="_blank"
                       disabled
                     >
                       Landing Page
