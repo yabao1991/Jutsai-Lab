@@ -1,6 +1,6 @@
 ## Jutsai Lab - A MPA Project
 
-Open [http://yabao1991.github.io/Jutsai-Lab](http://yabao1991.github.io/Jutsai-Lab) to view it in the browser.
+Open [https://yabao1991.github.io/Jutsai-Lab](https://yabao1991.github.io/Jutsai-Lab) to view it in the browser.
 
 In the project directory, you can run:
 
