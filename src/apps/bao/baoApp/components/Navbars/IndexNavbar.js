@@ -244,7 +244,7 @@ function IndexNavbar() {
                 className="dropdown-info"
               >
                 <DropdownItem
-                  href="/stacklineTest.html"
+                  href="/Jutsai-Lab/stacklineTest.html"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -252,7 +252,7 @@ function IndexNavbar() {
                 </DropdownItem>
                 <DropdownItem divider />
                 <DropdownItem
-                  href="/clock.html"
+                  href="/Jutsai-Lab/clock.html"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
@@ -260,7 +260,7 @@ function IndexNavbar() {
                 </DropdownItem>
                 <DropdownItem divider />
                 <DropdownItem
-                  href="/hepB.html"
+                  href="/Jutsai-Lab/hepB.html"
                   target="_blank"
                   // onClick={e => e.preventDefault()}
                 >
